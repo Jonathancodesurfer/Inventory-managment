@@ -1,0 +1,20 @@
+{
+    "items" : [
+        {
+            "id": 1,
+            "name" : "helment",
+            "description" : " white security helment",
+            "expriation_date" : "2023-10-31 ",
+            "location" : "warehouse",
+            "comments" : [ ]
+        },
+        {
+            "id": 2,
+            "name" : "wire",
+            "description" : " wire wire wire",
+            "expriation_date" : "2024-10-31 ",
+            "location" : "shop",
+            "comments" : [ ]
+        }
+    ]
+}
